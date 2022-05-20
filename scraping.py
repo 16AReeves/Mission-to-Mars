@@ -134,8 +134,8 @@ def hemispheres(browser):
 
         # Create empty dictionary
         hemisphere = {
-            "Title" : title,
-            "Image URL" : img_url
+            "title" : title,
+            "img_url" : img_url
         }
 
         # Add the dictionary to the list
@@ -150,4 +150,4 @@ def hemispheres(browser):
 if __name__ == "__main__":
 
     # If running as script, print scraped data
-    print(scrape_all())
+    print(scrape_all()) 
