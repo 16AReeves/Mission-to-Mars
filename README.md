@@ -1,6 +1,6 @@
 # Mission-to-Mars
 ---
-## Project to Analyze and Pull Data of Mars from the Internet
+## Module 10: Project to Analyze and Pull Data of Mars from the Internet using HTML and CSS styling
 ---
 ### Background
 ---
